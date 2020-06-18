@@ -1,2 +1,2 @@
-# Vanishing-pigs
-Today we made the pigs vanish gradually when they got hit
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
